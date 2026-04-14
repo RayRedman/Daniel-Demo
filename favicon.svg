@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Background circle -->
+  <circle cx="32" cy="32" r="30" fill="#1A3A6B"/>
+  <!-- D letter outline -->
+  <path d="M16 12 L16 52 L30 52 Q48 52 48 32 Q48 12 30 12 Z" fill="none" stroke="white" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- D inner cutout -->
+  <path d="M22 18 L22 46 L29 46 Q40 46 40 32 Q40 18 29 18 Z" fill="#1A3A6B" stroke="white" stroke-width="1"/>
+  <!-- Lightning bolt through the D -->
+  <polygon points="36,8 22,30 30,30 18,56 40,26 31,26 39,8" fill="white" stroke="#1A3A6B" stroke-width="0.5" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 100" width="400" height="100">
+  <!-- Power Plug Icon -->
+  <g transform="translate(6, 8)">
+    <!-- Plug body -->
+    <rect x="8" y="28" width="22" height="18" rx="3" fill="none" stroke="#1A3A6B" stroke-width="2.5"/>
+    <!-- Plug prongs -->
+    <line x1="14" y1="18" x2="14" y2="28" stroke="#1A3A6B" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="24" y1="18" x2="24" y2="28" stroke="#1A3A6B" stroke-width="2.5" stroke-linecap="round"/>
+    <!-- Cord -->
+    <path d="M19 46 L19 54 Q19 60 14 62 Q8 64 8 70" fill="none" stroke="#1A3A6B" stroke-width="2" stroke-linecap="round"/>
+    <!-- Small bolt on plug -->
+    <polygon points="21,32 17,38 20,38 16,44 22,37 19,37 23,32" fill="#1A1A1A"/>
+  </g>
+
+  <!-- Large D with lightning bolt -->
+  <g transform="translate(42, 5)">
+    <!-- D letter outline -->
+    <path d="M8 5 L8 80 L35 80 Q65 80 65 42.5 Q65 5 35 5 Z" fill="none" stroke="#1A3A6B" stroke-width="3.5" stroke-linejoin="round"/>
+    <!-- D inner cutout to make it look like a D -->
+    <path d="M18 15 L18 70 L33 70 Q53 70 53 42.5 Q53 15 33 15 Z" fill="white" stroke="#1A3A6B" stroke-width="1.5"/>
+    <!-- Lightning bolt through the D -->
+    <polygon points="44,8 24,42 36,42 20,78 52,36 38,36 50,8" fill="#1A3A6B" stroke="white" stroke-width="1.5" stroke-linejoin="round"/>
+    <!-- Inner lightning highlight -->
+    <polygon points="42,14 27,40 36,40 24,72 48,38 38,38 47,14" fill="#1A1A1A"/>
+  </g>
+
+  <!-- Company Name -->
+  <text x="120" y="38" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="26" fill="#1A3A6B" letter-spacing="1">IMPERIAL</text>
+  <text x="120" y="64" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="26" fill="#1A3A6B" letter-spacing="1">ELECTRIC</text>
+  <text x="120" y="82" font-family="Arial, Helvetica, sans-serif" font-weight="300" font-size="13" fill="#1A1A1A" letter-spacing="4">LLC</text>
+</svg>
