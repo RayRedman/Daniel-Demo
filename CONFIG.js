@@ -25,7 +25,7 @@ const CONFIG = {
     license: "Licensed • Insured • Bonded",
     logo: "assets/clients/active/logo.jpeg",
     logoIcon: "zap",
-    favicon: "/favicon.ico",
+    favicon: "/favicon.svg",
     yearEstablished: "",
     googleBusinessUrl: "",
   },
@@ -132,7 +132,7 @@ const CONFIG = {
     whyUs: "/assets/clients/active/why-us.webp",
     contact: "/assets/clients/active/hero.webp",
     og: "/assets/clients/active/hero.webp",
-    favicon: "/favicon.ico",
+    favicon: "/favicon.svg",
 
     services: {
       "ev-charger-installation": "/assets/clients/active/services/ev-charger-installation.webp",
